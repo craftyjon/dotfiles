@@ -1,7 +1,22 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"Package Control"
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DocBlockr",
+		"FileDiffs",
+		"Git",
+		"MarkdownEditing",
+		"Package Control",
+		"Python 3",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"Terminal"
 	]
 }
